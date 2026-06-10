@@ -1,0 +1,38 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration (caminho do SDK — específico de cada máquina)
+local.properties
+
+# Kotlin
+.kotlin/
+
+# Logs e caches
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Keystores (nunca versionar chaves de assinatura)
+*.jks
+*.keystore
+
+# Google Services (se adicionar Firebase no futuro)
+# google-services.json
